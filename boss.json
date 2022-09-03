@@ -1,0 +1,13 @@
+{
+	"name": "TestFileRTF",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./src",
+	"projects": [],
+	"dependencies": {
+		"github.com/hashload/handle-exception": "^0.1.7",
+		"github.com/hashload/horse": "^3.0.2",
+		"github.com/viniciussanchez/dataset-serialize": "^v2.4.5"
+	}
+}
